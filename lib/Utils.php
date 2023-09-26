@@ -10,7 +10,7 @@ namespace FuzzyWuzzy;
 class Utils
 {
     /**
-     * Returns a correctly rounded integer.
+     * Test Returns a correctly rounded integer.
      *
      * @param float $num Numeric value to round.
      * @return int
